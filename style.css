@@ -31,6 +31,7 @@ a:hover {
 .banner {
   background-color: #dcdc2e;
   padding: 15px;
+  border: solid black 1px;
 }
 .banner p {
   text-align: center;
